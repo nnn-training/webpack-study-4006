@@ -23,6 +23,7 @@ app.get("/", (c) => {
                 <a href="/login">Login</a>
               </p>
             `}
+        <div id="root"></div>
       `,
     ),
   );
